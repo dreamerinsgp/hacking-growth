@@ -1,7 +1,7 @@
 # Contents
 
-![](../images/00002.jpeg)
-![](../images/00002.jpeg)
+![](images/00002.jpeg)
+![](images/00002.jpeg)
 
 [Cover](kindle:embed:0003?mime=image/jpg)
 
@@ -41,8 +41,8 @@
 
 [*OceanofPDF.com*](https://oceanofpdf.com)
 
-![](../images/00004.jpeg)
-![](../images/00004.jpeg)
+![](images/00004.jpeg)
+![](images/00004.jpeg)
 
 When I (Sean) got a call from Dropbox founder Drew Houston in 2008, I was immediately intrigued by the predicament the one-year-old start-up was in. The company’s cloud-based file storage and sharing service had built up a good early fan base, concentrated primarily among the tech-savvy community centered in Silicon Valley. Even before the product was completely built, Houston had pushed a video prototype online illustrating how the service would work, which had earned him the backing of the powerful Y Combinator start-up incubator and drawn a flood of early adopters.
 

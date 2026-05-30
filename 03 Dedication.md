@@ -6,8 +6,8 @@
 
 [*OceanofPDF.com*](https://oceanofpdf.com)
 
-![](../images/00002.jpeg)
-![](../images/00002.jpeg)
+![](images/00002.jpeg)
+![](images/00002.jpeg)
 
 [Cover](kindle:embed:0003?mime=image/jpg)
 

@@ -1,7 +1,7 @@
 # Title Page
 
-![title page](../images/00001.jpeg)
-![title page](../images/00001.jpeg)
+![title page](images/00001.jpeg)
+![title page](images/00001.jpeg)
 
 [*OceanofPDF.com*](https://oceanofpdf.com)
 

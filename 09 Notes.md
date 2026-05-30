@@ -1,7 +1,7 @@
 # Notes
 
-![](../images/00057.jpeg)
-![](../images/00057.jpeg)
+![](images/00057.jpeg)
+![](images/00057.jpeg)
 
 [*OceanofPDF.com*](https://oceanofpdf.com)
 
@@ -423,7 +423,7 @@
 
 [*OceanofPDF.com*](https://oceanofpdf.com)
 
-![Penguin Random House Back Ad logo](../images/00058.jpeg)![Penguin Random House Next Reads logo](../images/00058.jpeg)
+![Penguin Random House Back Ad logo](images/00058.jpeg)![Penguin Random House Next Reads logo](images/00058.jpeg)
 
 [*OceanofPDF.com*](https://oceanofpdf.com)
 

@@ -1,7 +1,7 @@
 # Acknowledgments
 
-![](../images/00056.jpeg)
-![](../images/00056.jpeg)
+![](images/00056.jpeg)
+![](images/00056.jpeg)
 
 *Hacking Growth* is based on the learning that we’ve assembled throughout our careers, so I want to thank those who have given me an opportunity to learn. First, to my family for bearing with me through long days in the start-up testing trenches. And also to the founders and CEOs who have given me the trust to experiment on their start-ups and with their precious early customers. In particular Mike Simon of LogMeIn and Uproar, who took a risk on me and mentored me through my early career, and David Weiden, Adam Smith, and Matt Brezina of Xobni; Drew Houston of Dropbox; Kevin Hartz of Eventbrite; and John Hering of Lookout, who all accepted my unconventional desire to work in interim executive growth roles at the most fragile stages of their start-ups. I also want to thank David Barrett of Polaris Partners and Tony Conrad of True Ventures, the VCs who’ve backed me as a founder and allowed me to accelerate my learning with GrowthHackers.com.
 
@@ -27,7 +27,7 @@ Last, but certainly not least, a sincere thank you to my family. For without the
 
 [*OceanofPDF.com*](https://oceanofpdf.com)
 
-![](../images/00057.jpeg)
-![](../images/00057.jpeg)
+![](images/00057.jpeg)
+![](images/00057.jpeg)
 
 [*OceanofPDF.com*](https://oceanofpdf.com)

@@ -1,7 +1,7 @@
 # Introduction
 
-![](../images/00004.jpeg)
-![](../images/00004.jpeg)
+![](images/00004.jpeg)
+![](images/00004.jpeg)
 
 When I (Sean) got a call from Dropbox founder Drew Houston in 2008, I was immediately intrigued by the predicament the one-year-old start-up was in. The company’s cloud-based file storage and sharing service had built up a good early fan base, concentrated primarily among the tech-savvy community centered in Silicon Valley. Even before the product was completely built, Houston had pushed a video prototype online illustrating how the service would work, which had earned him the backing of the powerful Y Combinator start-up incubator and drawn a flood of early adopters.
 
@@ -159,8 +159,8 @@ The ways in which consumers discover new content and products are evolving at a 
 
 VIRAL CHANNEL EFFECTIVENESS
 
-![](../images/00005.jpeg)
-![](../images/00005.jpeg)
+![](images/00005.jpeg)
+![](images/00005.jpeg)
 
 Seizing these opportunities requires tech and marketing teams to work closely together. Yet most companies are far too slow to adopt promising platforms, trapped by legacy planning, budgeting, and organizational norms. By the time they are ready to act, evanescent early advantages are long gone. And the pace of change is only accelerating.
 
@@ -194,7 +194,7 @@ Businesses of all shapes and sizes, in every industry and all around the globe, 
 
 [*OceanofPDF.com*](https://oceanofpdf.com)
 
-![](../images/00006.jpeg)
-![](../images/00006.jpeg)
+![](images/00006.jpeg)
+![](images/00006.jpeg)
 
 [*OceanofPDF.com*](https://oceanofpdf.com)
