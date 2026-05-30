@@ -7,7 +7,7 @@ When I (Sean) got a call from Dropbox founder Drew Houston in 2008, I was immedi
 
 It became pretty clear that Houston was on to something when the waiting list he was keeping for the beta version grew from 5,000 to 75,000 in a blink of an eye when a second video was posted on news aggregator site Digg and went viral.[1](part0017_split_001.html#itr-fnt1) The next wave of users who signed up after the public launch were happy with the service, but Houston was still running into a wall trying to break out beyond the tech elite. And he didn’t have much time. The competition was fierce. One start-up, Mozy, had a three-year head start, while another, Carbonite, had raised $48 million in funding—versus the $1.2 million in seed capital raised by Houston. Meanwhile, behemoths Microsoft and Google were gearing up to enter the cloud storage arena. How could Dropbox grow their customer base in the shadow of such formidable competitors?
 
-When Houston called me, he wanted to explore what I could do to help them grow beyond their very solid but not-yet-big-enough pool of early adopters. I was just wrapping up an interim VP of marketing role at Xobni, a start-up run by Drew’s good friend Adam Smith, when Adam suggested that we meet to discuss Dropbox’s challenges. I had developed a reputation in Silicon Valley as someone who could figure out how to help companies take off, particularly those facing fierce competition and limited budgets such as Dropbox was. I’d first had success driving growth at the online game pioneer Uproar, growing the site to one of the 10 largest on the Web, with more 5.2 million gamers at the time of IPO in March of 2000, all in the face of an aggressive push into gaming from Sony, Microsoft, and Yahoo![2](part0017_split_001.html#itr-fnt2) I’d then moved over to work on growth initiatives at LogMeIn, an innovative service started by the Uproar founder. There I’d managed to help turn the company into the market leader despite a massive marketing campaign waged by its main competitor, GoToMyPC. What was the secret? I worked with the engineers to utilize technology for what was, to them, an unconventional purpose: to craft novel methods for finding, reaching, and learning from customers in order to hone our targeting, grow our customer base, and get more value from our marketing dollars. I knew nothing about software engineering when I started my career in 1994 selling print ad space for a business journal at a time when businesses were just starting to move to the Web. But I saw the promise of the future in Web business, and so when I got to know the founder of Uproar, I decided to invest some of my hard-won sales commissions and hop over to work for the gaming portal, once again, selling ads. It wasn’t long before I caught on to the dangers of relying only on traditional marketing methods—even the newer, Internet-era versions of old methods, like online banner ads—to drive growth. My big wake-up moment was probably when the leading advertising firms I was trying to sell to, such as Saatchi and Ogilvy, declined to recommend banner ads on Uproar to their clients, on the grounds that the site didn’t have a large enough user base. Short on cash and in danger of missing out on much-needed sales commissions, I suddenly found myself tasked by the founder with figuring out how to bring in more users, fast. My first approach was paid advertising on Internet portals, like Yahoo!, and that stoked growth nicely. But it was costly, and, just as Drew Houston later discovered with Dropbox, the ads weren’t bringing in enough bang for the buck. Meanwhile, Sony, Yahoo!, and Microsoft started making their big push, flooding the Web with gaming ads, and as a young start-up, Uproar didn’t have anywhere close to the money needed to compete with them head to head. I knew I had to find another way.
+When Houston called me, he wanted to explore what I could do to help them grow beyond their very solid but not-yet-big-enough pool of early adopters. I was just wrapping up an interim VP of marketing role at Xobni, a start-up run by Drew’s good friend Adam Smith, when Adam suggested that we meet to discuss Dropbox’s challenges. I had developed a reputation in Silicon Valley as someone who could figure out how to help companies take off, particularly those facing fierce competition and limited budgets such as Dropbox was. I’d first had success driving growth at the online game pioneer Uproar, growing the site to one of the 10 largest on the Web, with more 5.2 million gamers at the time of IPO in March of 2000, all in the face of an aggressive push into gaming from Sony, Microsoft, and Yahoo2 I’d then moved over to work on growth initiatives at LogMeIn, an innovative service started by the Uproar founder. There I’d managed to help turn the company into the market leader despite a massive marketing campaign waged by its main competitor, GoToMyPC. What was the secret? I worked with the engineers to utilize technology for what was, to them, an unconventional purpose: to craft novel methods for finding, reaching, and learning from customers in order to hone our targeting, grow our customer base, and get more value from our marketing dollars. I knew nothing about software engineering when I started my career in 1994 selling print ad space for a business journal at a time when businesses were just starting to move to the Web. But I saw the promise of the future in Web business, and so when I got to know the founder of Uproar, I decided to invest some of my hard-won sales commissions and hop over to work for the gaming portal, once again, selling ads. It wasn’t long before I caught on to the dangers of relying only on traditional marketing methods—even the newer, Internet-era versions of old methods, like online banner ads—to drive growth. My big wake-up moment was probably when the leading advertising firms I was trying to sell to, such as Saatchi and Ogilvy, declined to recommend banner ads on Uproar to their clients, on the grounds that the site didn’t have a large enough user base. Short on cash and in danger of missing out on much-needed sales commissions, I suddenly found myself tasked by the founder with figuring out how to bring in more users, fast. My first approach was paid advertising on Internet portals, like Yahoo!, and that stoked growth nicely. But it was costly, and, just as Drew Houston later discovered with Dropbox, the ads weren’t bringing in enough bang for the buck. Meanwhile, Sony, Yahoo!, and Microsoft started making their big push, flooding the Web with gaming ads, and as a young start-up, Uproar didn’t have anywhere close to the money needed to compete with them head to head. I knew I had to find another way.
 
 That’s when I got the idea of creating an entirely new type of advertisement that allowed Web proprietors to offer Uproar games for free on their site, meaning the site got fun new features to offer their visitors, and Uproar got exposure to everyone who visited those pages. The founder gave the go-ahead, and within a few weeks, the engineers and I had created a new single-player game that could be added to any website, with just a small snippet of code: one of the first embeddable widgets. The site proprietors would become Uproar affiliates, paid just $.50 for each new game player the company acquired through their sites. The low cost made it highly affordable for us and, because the game was so engaging, the affiliates were happy to feature it. In addition to sending new gamers to Uproar, we experimented with adding an “add this game to your site” link, which made it easy for other website owners to make the game available on their sites, too.
 
@@ -47,7 +47,6 @@ This intricate integration meant that Airbnb listings flowed quickly onto Craigs
 
 By breaking down the traditional business silos and assembling cross-functional, collaborative teams that bring together staff with expertise in analytics, engineering, product management, and marketing, growth hacking allows companies to efficiently marry powerful data analysis and technical know-how with marketing savvy, to quickly devise more promising ways to fuel growth. By rapidly testing promising ideas and evaluating them according to objective metrics, growth hacking facilitates much quicker discovery of which ideas are valuable and which should be dismissed. It is the solution to the misplaced, often quite stubborn, devotion to features or marketing approaches that don’t work, replacing wasteful, outdated, and unproven approaches with market-tested and data-driven alternatives.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **WHO CAN BECOME A GROWTH HACKER?**
 
@@ -73,7 +72,6 @@ Yet despite growth hacking’s proven effectiveness, growing ubiquity, and the e
 
 This book is designed to be just that.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **A DEFINITIVE GUIDE**
 
@@ -85,7 +83,6 @@ Along the way we share insights into the process from Sean’s experiences at Dr
 
 The result is the first practical, accessible, step-by-step playbook to hacking growth—written by one of its founders in collaboration with one of its most expert practitioners, that can be adopted by any team, department, or company of any stripe.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **AN UNSTOPPABLE GROWTH MACHINE**
 
@@ -103,7 +100,6 @@ As Sean’s experience with Dropbox shows, the process can be implemented by eve
 
 Growth hacking is a method designed to be easily tailored and adapted to the specific needs of any team or company, large or small, at any stage of growth. And its rewards are many. Here are a few benefits of growth hacking and why they are so essential now, more than ever.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **SURVIVING DISRUPTION**
 
@@ -115,7 +111,6 @@ This process will only be accelerating with the advent of the fast-developing In
 
 One company that is smartly using technology to continuously test and update and improve its product—and fend off new market entrants in the process—is electric car pioneer Tesla Motors. The company doesn’t put model years on its cars, sending regular updates to the cars’ software, upgrading cars’ capabilities (such as adding self-driving technology) in real time rather than waiting for a new model release. The company also monitors cars’ performance and sends word to owners when repairs are advised. With plans to greatly expand sales in the coming years, the company has brought in talent from both the Facebook and Uber growth teams, and has announced, “We’re building a growth team from scratch to design, build and optimize scalable solutions to accelerate adoption.”[17](part0017_split_001.html#itr-fnt17)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE NEED FOR SPEED**
 
@@ -125,7 +120,6 @@ The need today for great agility in adapting to new technologies and platforms c
 
 Start-ups and established companies alike, in other words, simply can’t afford to be slowed down by organizational silos. By breaking down those barriers growth hacking enables teams and companies to become more nimble and responsive to the ever-changing demands in the market, accelerating the rollout of new products and features as well as the crafting and implementation of marketing and sales strategies critical to attracting, activating, and monetizing customers. This need for speed is why a key feature of growth hacking is to experiment at the fastest possible tempo. As Facebook’s vice president of growth Alex Schultz puts it: “If you’re pushing code once every two weeks and your competitor is pushing code every week, just after two months that competitor will have done 10 times as many tests as you. That competitor will have learned 10 times, an order of magnitude more about their product [than you].”[18](part0017_split_001.html#itr-fnt18)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **MINING DATA GOLD**
 
@@ -139,7 +133,6 @@ A great case in point is the Savings Catcher mobile app by Walmart, which arose 
 
 Recognizing that Walmart’s greatest asset is its data, Brian Monahan, the company’s former VP of marketing, pushed forward a unification of the company’s data platforms across all divisions, one that would allow all teams, from engineering, to merchandising, to marketing, and even external agencies and suppliers, to capitalize on the data generated and collected. Growth hacking cultivates the maximization of *big data* through collaboration and information sharing. Monahan highlighted the business need this approach solves: “You need marketers who can appreciate what it takes to actually write software and you need data scientists who can really appreciate consumer insights and understand business problems,” he explained.[19](part0017_split_001.html#itr-fnt19)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE RISING COSTS AND DUBIOUS RETURNS OF TRADITIONAL MARKETING**
 
@@ -151,7 +144,6 @@ How bad has the crisis of traditional marketing become? A recent McKinsey study 
 
 Growth hacking empowers companies to achieve breakout growth without pouring money into outdated and horribly expensive marketing campaigns of questionable business value. Devising features that get consumers to love a product or service and spread the word to their friends, and creative hacks to reach customers in new, measurable ways, is taking the place of cash-guzzling marketing and ad plans, and the upside is enormous.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **GETTING THE JUMP ON NEW TECHNOLOGY**
 
@@ -164,7 +156,6 @@ VIRAL CHANNEL EFFECTIVENESS
 
 Seizing these opportunities requires tech and marketing teams to work closely together. Yet most companies are far too slow to adopt promising platforms, trapped by legacy planning, budgeting, and organizational norms. By the time they are ready to act, evanescent early advantages are long gone. And the pace of change is only accelerating.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **MYTH BUSTING**
 
@@ -182,7 +173,6 @@ Then there is the misconception that growth hacking is all about marketing. As w
 
 In short, growth teams should be involved in all stages and all levers of growth, from attaining product/market fit to customer/user acquisition, activation, retention, and monetization. In the chapters that follow, we’ll offer specific instruction on how.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **HOW THE BOOK IS ORGANIZED**
 
@@ -192,9 +182,7 @@ The second part, titled “The Growth Hacking Playbook,” offers a detailed set
 
 Businesses of all shapes and sizes, in every industry and all around the globe, are struggling mightily to find ways to grow. Growth hacking provides a rigorous methodology for driving the discovery of opportunities through collaboration across functions and at a rapid-fire pace. It insists upon data-driven analysis and experimentation, providing the answer for how companies can systematically tap the power of the wealth of data they have invested so heavily in accumulating. As we’ll demonstrate throughout the course of this book, businesses of all kinds can implement these strategies, whether they start small or decide to incorporate the method company-wide. Growth hacking is a new fundamental business methodology that all companies, and every founder, every corporate team leader, and every department head and CEO who wishes to meet high expectations, produce meaningful results, and achieve their business goals with limited investment and maximum return on their marketing dollars must adopt. In the coming pages we’ll show you exactly how to do so.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ![](images/00006.jpeg)
 ![](images/00006.jpeg)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

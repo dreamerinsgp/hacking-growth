@@ -9,7 +9,6 @@ Improving activation is at its core about increasing the rate at which you get n
 
 In this chapter, we will first introduce the three essential steps every growth team must take in order to identify the highest-impact activation experiments to run. Then we will introduce a set of best practices for increasing activation that have been implemented to great effect by fast-growth companies. A closing section takes a special look at one of the most effective, but also most often abused, tactics: the use of triggers, which are prompts to users that urge them to reengage with a product. We’ll introduce the ins and outs of the sticky business of getting triggers right.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **MAPPING THE ROUTE TO THE AHA MOMENT**
 
@@ -21,7 +20,6 @@ Just reading through these steps you can think of many ways in which users might
 
 Once you’ve identified the steps that lead up to the aha moment, the next step toward homing in on stumbling blocks for customers and figuring out what’s causing them to flee is to calculate the conversion rates for each of the steps on the way to the aha moment, or, in other words, the percentage of all visitors who are taking each of those steps along the path to success.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **CREATING A FUNNEL REPORT OF CONVERSIONS AND DROP-OFFS**
 
@@ -52,7 +50,6 @@ The growth team at Qualaroo, the online survey company Sean founded, followed th
 
 So to get more users to experience the aha moment, we tried many experiments aimed at increasing the likelihood that new trial users would get at least 50 responses on a survey. These included a number of efforts to improve customer education about which surveys to run, through new email copy we wrote and also through tutorial videos about the types of surveys to run in order to get information about specific sorts of issues and suggestions about where to run them. We also changed the set of recommended surveys shown to new users to ones that would be run in broader uses and attract greater response rates, such as Net Promoter Score surveys. Finally, I (Sean) tasked the customer success team with doing proactive outreach to visitors in order to give them tips about deploying surveys. All of these experiments combined led to a dramatic increase in customer activation rate, even as we tripled the cost of the product!
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **SURVEY DOS AND DON’TS**
 
@@ -92,7 +89,6 @@ Additionally, the data showing that so many of those who added items to the new 
 
 And with that they’re off and running. But they’ll likely have to try many experiments for each of these ideas, and others as well, in order to optimize activation. Always remember that there are no silver bullets in growth hacking, and that even what seem like slam-dunk ideas can fail.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **BE PERSISTENT AND YOU’LL GET THE PAYOFF**
 
@@ -114,7 +110,6 @@ The bottom line is: there are no shortcuts. But if you follow the three steps we
 
 Now let’s look at the most common obstacles to activation, and how to design experiments for hacks to avoid them.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **ERADICATING FRICTION**
 
@@ -132,7 +127,6 @@ In order to improve activation, you can either increase your customers’ desire
 
 Think of your funnel conversion report as your roadmap to the sources of friction in your customer journey. Sometimes just scrutinizing big drop-off points alone will reveal the impediments to begin experimenting with removing or redesigning. Slow download times and glitchy shopping carts are common examples, but perhaps the most problematic friction point is often right at the beginning of the customer journey, in the new user experience (NUX).
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **OPTIMIZING THE NEW USER EXPERIENCE**
 
@@ -158,7 +152,6 @@ A particularly bold way to reduce the friction keeping your customers from exper
 
 Similarly, Stripe, an online payments company, allows its customers to grab a small snippet of code and start using it right away, only asking for account details when it’s time to transact with real money. This gets more of their potential customers experimenting with their product—and experiencing the aha moment—before they commit to creating an account. And this technique works just as well for non-Web products; Warby Parker, the trendy eyeglass brand, will send anyone a set of five frames before making a purchase to help users decide which ones they like before they have to commit to a particular pair. Each of these companies flips some critical part of the typical funnel and eliminates friction in the process.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **OPTIMIZING IS A PUSH AND PULL WITH FRICTION**
 
@@ -172,7 +165,6 @@ They focused on optimizing how they displayed the prompts, including their desig
 
 The Airbnb team ran many more experiments in order to optimize this experience, testing all of the design of the elements in the sign-up prompts, from the color of the sign-up bar on the home page to the styling of the buttons on the sign-up form, and eventually found the sweet spot for improving the company’s overall sign-up rate and other important metrics.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE POWER OF POSITIVE FRICTION**
 
@@ -188,7 +180,7 @@ The more information people put into the product, the more their commitment incr
 
 ### CRAFTING A LEARN FLOW
 
-While the new user experience is ripe for friction, it is ripe for opportunity as well. That’s because the first experience people have with your product is also the time that they are most consciously trying to figure it out. As former head of growth for Twitter Josh Elman, who we met earlier, says about the new user experience, “This is your moment. You have more attention than you ever will have again, from that user, to try to teach them what your product is really about. To really help them learn the product in a meaningful way.” Elman’s team designed something he dubbed the *learn flow* to enable Twitter to take advantage of this attention. *Learn flow* is Elman’s definition of a new user experience that’s designed to more than just sign people up, but rather purposefully educates new users about the product, its benefits and value, and how to use it in the process. This NUX design takes advantage of the abundance of attention and patience new users credit you in that first visit to make sure they’re primed for activation by the time they finish. For Twitter, this involved not only creating a new account, but also showing new users what Twitter was all about in the first place. They designed a learn flow that showed users how the Twitter timeline worked, suggested categories to follow (such as Fashion, Sports, and News), prompted people to follow notable accounts, and then to complete their profile. By the end of this learn flow, not only are you all signed up for the service, you’ve customized your profile and you have a Twitter feed full of news you care about. In one visit, Twitter got you to commit to the service, experience the aha moment, and build stored value. Not bad for one visit![6](part0017_split_007.html#c06-fnt6)
+While the new user experience is ripe for friction, it is ripe for opportunity as well. That’s because the first experience people have with your product is also the time that they are most consciously trying to figure it out. As former head of growth for Twitter Josh Elman, who we met earlier, says about the new user experience, “This is your moment. You have more attention than you ever will have again, from that user, to try to teach them what your product is really about. To really help them learn the product in a meaningful way.” Elman’s team designed something he dubbed the *learn flow* to enable Twitter to take advantage of this attention. *Learn flow* is Elman’s definition of a new user experience that’s designed to more than just sign people up, but rather purposefully educates new users about the product, its benefits and value, and how to use it in the process. This NUX design takes advantage of the abundance of attention and patience new users credit you in that first visit to make sure they’re primed for activation by the time they finish. For Twitter, this involved not only creating a new account, but also showing new users what Twitter was all about in the first place. They designed a learn flow that showed users how the Twitter timeline worked, suggested categories to follow (such as Fashion, Sports, and News), prompted people to follow notable accounts, and then to complete their profile. By the end of this learn flow, not only are you all signed up for the service, you’ve customized your profile and you have a Twitter feed full of news you care about. In one visit, Twitter got you to commit to the service, experience the aha moment, and build stored value. Not bad for one visit6
 
 Of course because Twitter was offering such a novel service, one that required people to adopt a new habit, teaching them about the value of following people and how to use Twitter was not optional. For some products, no such explanation is needed. For e-commerce sites, for example, people generally just really want to start browsing for goods as fast as possible and most often have a good idea of what they’re shopping for, so just about any effort to get people to move through some kind of orchestrated process will be resented. For yet other products, the judgment call about whether or not to require some of a user’s time to go through a set of steps is harder to make, because while they may be able to make a rough assumption about how to use the product, getting some information from them and showing them some aspects of the way the product works as it relates *specifically to them* can enhance their appreciation of its value. Making this call, of course, requires experimentation; Pinterest is a great case of this.
 
@@ -218,7 +210,6 @@ Brian Wong, founder of Kiip, a company that helps mobile apps provide rewards to
 
 On the very overt side of the spectrum are loyalty programs employed by businesses ranging from Starbucks to credit cards to restaurants. Gabe Zichermann, a leading gamification expert, has identified that the most effective rewards in a gamified setting come in the form of status, access, power, and stuff (stuff being financial incentives or physical gifts).[11](part0017_split_007.html#c06-fnt11) Credit cards, such as American Express Membership Rewards, deploy all of these elements, from new levels of status to achieve through spending, power, and access to special events and travel opportunities, and of course free stuff, which can be redeemed with the points earned. Similarly, the Starbucks Rewards program boasts more than 12 million members who use a Starbucks gift card or the company’s mobile app to earn “stars” each time they buy a cup of coffee. Those stars turn into more free coffee and other Starbucks merchandise. The more stars they earn, the bigger rewards they can redeem and they also move up in rank, accumulating more status as a member of the Starbucks faithful. The program has been so successful that the company now has more than $1 billion in customer cash from the preloaded gift cards and app.[12](part0017_split_007.html#c06-fnt12)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **INS AND OUTS OF TRIGGERS**
 
@@ -294,7 +285,6 @@ The bottom line is: do experiment with triggers, because they can be extraordina
 
 Now, speaking of building relationships with your customers, let’s move farther through the user experience to examine how growth teams have used the growth hacking process to achieve great successes in retention.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ![](../images/00039.jpeg)
 ![](../images/00039.jpeg)
@@ -307,4 +297,3 @@ Homejoy, a home cleaning start-up, once had a bright future, raising more than $
 
 Amazon, in contrast, is perhaps the gold standard example of retention prowess. The company’s subscription program, Amazon Prime, has been a particular triumph in retaining customers, largely due to the two-day free shipping included on thousands of items, but also many ancillary benefits that have been added to the program, such as its video and music streaming services. Seventy-three percent of free trial subscribers convert to paying subscribers, and ninety-one percent of first-year subscribers renew for a second year. What’s even more impressive is that retention continues to increase the longer customers have been subscribers, with the renewal rate for customers heading into their third year in the program at an almost unheard-of high of 96 percent.[4](part0017_split_008.html#c07-fnt4)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

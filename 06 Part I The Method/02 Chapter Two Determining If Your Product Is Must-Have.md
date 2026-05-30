@@ -19,7 +19,6 @@ Growth teams need to adopt rigorous methods for probing into user behavior in or
 
 Finally, it’s important to note that identifying core value does not necessarily follow directly from having created it. Often those of us building and marketing new products *think* we know what aspect of our product consumers will love—and often we are wrong. Sometimes it’s a feature or user experience that was built into the product that is quite different from what was hypothesized in the original product vision as the core value; other times it’s one that was built into the product somewhere along the way as almost an afterthought. Whichever the case, it’s up to the growth team to find out. In this chapter we’ll learn how.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE FLAMEOUT OF BRANCHOUT**
 
@@ -35,7 +34,6 @@ But that desire to shift turned out to be little more than wishful thinking. Des
 
 Many other products that achieved rocket-like growth by pushing too hard too soon for adoption have flamed out in similarly spectacular fashion. Which is why all growth hackers must always keep in mind that, as the growth team at Airbnb says, “love creates growth, not the other way around.” And for there to be love, there needs to be that aha moment.[9](part0017_split_003.html#c02-fnt9)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **WHAT’S THE AHA MOMENT?**
 
@@ -55,7 +53,6 @@ Identifying what a product’s aha moment is can sometimes be quite tricky. It�
 
 The good news is that while discovering *how* to make a product deliver an aha moment can be very difficult, determining *whether* or not your product meets the baseline requirement generally doesn’t require elaborate diagnostics. We advise a simple two-part assessment.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE MUST-HAVE SURVEY**
 
@@ -113,7 +110,6 @@ Somewhat ironically, it’s best if you target the survey at active users rather
 
 One caveat: the Must-Have Survey isn’t recommended much beyond the stage of determining whether you’ve achieved core product value. For one thing, once your growth has taken off, it’s not a good idea to even suggest to your customer base that the product might be discontinued by asking them how they’d feel if it were no longer available. Can you imagine the panic if Facebook sent its users a survey suggesting it might go away? Moreover, once you have moved past this early diagnostic stage, your surveying and testing of the quality of the customer experience can and should become progressively more refined and your assessments more quantitative in nature, because you’ll have more data to work with. You’ll dive into more specific aspects of the user experience that people love and don’t love, based on the data you’ll accumulate about how people are using the product, in order to determine how you can continue to test improvements.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **MEASURING RETENTION**
 
@@ -132,7 +128,6 @@ RETENTION CURVES FOR ANDROID APPS
 
 Business products, such as software as a service, fare much better, with annual retention rates north of 90 percent, according to a study of private SaaS companies done by Pacific Crest in 2013.[13](part0017_split_003.html#c02-fnt13) And fast-food restaurant chains see month-over-month retention of customers ranging from 50 to 80 percent. For example, McDonald’s saw 78 percent of their customers come in every month to their restaurants in 2012.[14](part0017_split_003.html#c02-fnt14) A 2013 study concluded that credit card companies in the US see annual churn rates of roughly 20 percent, while European cellphone carriers see churn of anywhere between 20 and 40 percent.[15](part0017_split_003.html#c02-fnt15)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **GETTING TO MUST-HAVE**
 
@@ -148,7 +143,6 @@ So it’s vital to take an analytical approach to finding out why that aha momen
 
 The team should divide up responsibilities according to the specialized talents of each member of the growth team to conduct these diagnostics: The marketing and product design specialists on the team have the necessary expertise in conducting interviews and surveys; engineers know how to implement product changes and to set up experimental tests within the product; and data analysts know how to dig deeper into user behavior, providing insights beyond those offered by basic metrics that off-the-shelf programs track. Let’s look at how to go about each of these discovery processes.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **GETTING OUT AND ABOUT IN THE ANALOG WORLD**
 
@@ -170,7 +164,6 @@ Yet Tinder faced a unique challenge in gaining early adopters that wasn’t an i
 
 Adoption was strong, and then, as founder Sean Rad recalls, growth broke out of this initial market organically. “It happened around January. We had been picking up on college campuses, then everyone went home and told their cousins and older brothers and friends about it, and all of a sudden Tinder started growing like a virus.”[22](part0017_split_003.html#c02-fnt22) The company did not have to spend heavily on advertising or acquisition of email lists, and by focusing on a core group of users, it was able to deftly fine-tune the product with many ongoing improvements that its users loved. But it couldn’t have happened had they not gone out into the world to gain a deep understanding of a core initial market.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **FINDING A COMMUNITY TO SURVEY**
 
@@ -182,7 +175,6 @@ Conducting surveys and interviews may seem prohibitively time consuming but, in 
 
 And while it’s true that research has shown the costly process of conducting focus groups to be largely ineffective and time consuming, simple user surveys of the kind Sean made use of to discover that users didn’t believe LogMeIn was really a free service can be deployed very rapidly and easily, with no technical know-how required. And in most cases just a couple hundred survey responses are needed in order to get a good bead on the underlying motivations behind the behaviors you uncovered in your data dive, revealing deep insight into what your true growth opportunities are, and in turn where you should begin to focus your growth experimentation efforts.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **EFFICIENT EXPERIMENTATION**
 
@@ -190,7 +182,6 @@ The growth of low-cost and easy-to-use data analytics and online marketing techn
 
 In order to keep the experiment velocity high—which is always a mandate in growth hacking—the team should run a mix: tests of the more complicated product changes they want to try with the much-easier-to-run testing of the messaging and marketing. In the next two sections we’ll look at each type of test in more detail.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **IS IT BETTER THIS WAY OR THAT?**
 
@@ -206,7 +197,6 @@ A/B testing should also go far beyond the language and design of landing pages a
 
 Engineers can be powerful sources of ideas for additional kinds of test opportunities farther down the funnel, which tend to be more technically complicated and can often be beyond the vision of the nontechnical team members. Recall from the last chapter, for example, how the engineers on the Pinterest engagement growth team built the Copytune machine learning program in order to supercharge speed of experimentation with copy in 30 languages in numerous emails used to retain existing Pinterest users. This is an example of what’s called a *multivariate test,* which goes beyond comparing two alternatives to comparing every possible combination of each element of a message to find the highest-performing permutation. Or, take what’s called *multi-armed bandit,* a more sophisticated testing scheme used by companies to find winning results faster. We’ll introduce more types of tests that can be run and explain them in more detail later in the book.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **EXPERIMENTS WITHIN THE PRODUCT**
 
@@ -214,7 +204,6 @@ The more complicated tests that require significant engineering time are usually
 
 Adjustments that have historically proven to improve results and enhance the user experience should be prioritized, such as speeding up the response time of a Web shopping cart or improving the sign-up process. But other, less-battle-tested changes such as substantial redesigns or building of new product features should be done only on the basis of a strong hypothesis, formed through the analysis of user research and data. In other words, for tests that are time- and labor-intensive, teams should minimize the risk of this investment of effort with sound reasoning first, and mix bigger, riskier initiatives in with more sure things. In doing so the team will ensure that it strikes the right balance between big, moonshot bets and incremental improvements that lead to consistent growth.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **TAKING A DATA DIVE**
 
@@ -224,7 +213,6 @@ It’s essential that your team have data on each piece of the customer experien
 
 What you want to create is what’s often called a *data lake* or *data warehouse*: a single location where all customer information is stored and where you can really dive in and uncover distinctive groupings of users who may be using the product differently from other groups. This also empowers you to explore product use at the individual user, or “atomic,” level, examining, for example, how, say, an extraordinarily active user is spending her time on your website or with your app, or what a user who was about to make a substantial purchase but then didn’t follow through to hit the Buy button did instead. Maybe you see that she got lured away by a special promotion feature for an item that popped up just as she was about to finalize the purchase; though this information is anecdotal for one user, it can steer you toward areas ripe for additional analysis and growth experimentation. When the data is properly collected, it will also make it that much easier for data analysts to share the results of the rapid-fire experiments you run as part of your growth push.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **WHAT ARE ACTIVE USERS DOING?**
 
@@ -234,7 +222,6 @@ The key mission at this stage is to look for the behaviors that differentiate th
 
 Similarly, at RJMetrics, a business intelligence company, the team found that users who edited a chart in the software during their free trial period were twice as likely to convert to paying customers as those who didn’t and that that number went up even higher when a trial user edited two charts. So what did RJMetrics do? They made the editing of a chart a key step in their new user orientation.[28](part0017_split_003.html#c02-fnt28)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **PIVOTING TO THE UNEXPECTED**
 
@@ -254,7 +241,6 @@ Of course, deep data analysis into customer behavior may also provide confirmati
 
 The idea that customers should be asked to pay an additional sum for training for software they’d already purchased ran counter to what was considered best practice at the time. Companies feared that adding that much overhead to the software cost would be a barrier to entry to price-conscious customers. But the HubSpot team trusted the data and enforced up-front training.[33](part0017_split_003.html#c02-fnt33) This is a great example of what Chamath Palihapitiya means when he says that a growth team’s responsibility is to “invalidate lore” about products and markets and pursue growth efforts backed by empirical evidence. The result for HubSpot was a rapidly growing customer base that powered the company to a successful IPO in 2014.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **DRIVING TO THE AHA**
 
@@ -268,7 +254,6 @@ Because getting users to the aha moment is so critical to building up a strong f
 
 Once you have discovered a market of avid users and your aha moment—i.e., once product/market fit has been achieved—then you can begin to build systematically on that foundation to create a high-powered, high-tempo growth machine. The rest of the book will offer specific hacks and strategies for doing just that.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ![](../images/00014.jpeg)
 ![](../images/00014.jpeg)
@@ -285,4 +270,3 @@ They had hoped to get out of their cash crunch by raising more capital. But with
 
 The Everpix tragedy demonstrates the importance of focusing not just on growth but on the *right levers of growth* at the right time. The conversion rate and positive feedback were clear indicators that they already had a great product and a solid base of active users; what the Everpix founders needed to do was shift attention from making the product pleasing to making it more profitable—i.e., channel their considerable design and engineering talent toward the mission of turning more customers into paying ones. Had they done so, it may well have become a lucrative business.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

@@ -25,9 +25,7 @@ Last, but certainly not least, a sincere thank you to my family. For without the
 
 —Morgan
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ![](images/00057.jpeg)
 ![](images/00057.jpeg)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

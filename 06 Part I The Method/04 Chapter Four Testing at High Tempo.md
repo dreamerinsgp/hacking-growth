@@ -17,7 +17,6 @@ To illustrate the power of small gains, Peep Laja, a renowned expert in conversi
 
 This chapter will discuss how to run the kinds of rapid-fire experiments that will produce these kinds of compounding wins.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **TEMPO PICKS UP OVER TIME**
 
@@ -27,7 +26,6 @@ We advise that teams start slow and build to a faster tempo after the team gets 
 
 We’ve developed a four-part cycle and a set of simple but powerful tools for making sure a growth team operates as a well-trained, finely tuned, fast-tempo experimenting machine, which we’ll introduce in this chapter.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE GROWTH HACKING CYCLE**
 
@@ -40,7 +38,6 @@ THE GROWTH HACKING PROCESS
 
 To illustrate how the process works from start to finish, we’ll use a hypothetical case of a growth team that has just been created at a large brick-and-mortar grocery retail chain, but as we hope will soon become clear, this is a process that can work for any team or company—large or small—and for any product or project—anything from a new software tool, to an online retailer, to a media product, to a hardware business, and even to a blog or single ad or PR campaign. We’ll describe what all of the members of the team should be doing in each of the stages, and we’ll introduce a model agenda detailing exactly how the crucial growth meeting should be run.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **PREPARING FOR LIFTOFF**
 
@@ -253,7 +250,6 @@ In addition to creating a knowledge base, many teams send out regular communicat
 
 • Publish test results to company dashboards. If the company doesn’t use dashboards, then simply printing and posting test results in common areas around the office is an effective low-tech way to spread the word.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE GROWTH MEETING**
 
@@ -307,7 +303,6 @@ The team discusses the nominations for the next set of tests to launch. The grow
 
 The growth lead reports about the number of ideas waiting for consideration or tagged for future launch. If the ideation volume is down, the growth lead should spur the team to add more ideas in the coming week. Recognizing top contributors from the previous week is a great way to inspire the team to keep the flow of fresh ideas coming.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **GROWTH WITHIN WEEKS**
 
@@ -321,9 +316,7 @@ One of the great things about growth hacking is that even failed experiments can
 
 Now that you have the data puzzle solved, the team assembled, and the growth hacking process down, it’s time to move into the playbook section of *Hacking Growth.* In Part II we’ll devote a chapter to each major lever for growth—user acquisition, activation, retention, and monetization—and share with you the strategies and hacks that growth teams can use to unlock new growth in each area. Along the way we’ll also share more stories from successful growth teams and how they discovered and solved for big wins in each area, as well as follow the progress of our grocery app team to take you step by step through applying the growth hacking process in each.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ![](../images/00027.jpeg)
 ![](../images/00027.jpeg)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

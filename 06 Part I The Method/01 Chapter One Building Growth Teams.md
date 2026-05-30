@@ -32,7 +32,6 @@ This kind of collaboration between marketing and product teams is woefully uncom
 
 Even if you don’t work for a tech company, you may be familiar with this kind of tension between departments, maybe with marketing teams pushing back on suggestions from sales, or the R&D team resisting a request to build a prototype for a new product that marketing has recommended. This is one of the chief problems with the practice of siloing responsibilities by departments, and it’s primarily why, as you’ll learn more about in a minute, growth teams must necessarily include members across a range of specialties and departments. As the BitTorrent team soon realized, often the best ideas come from this type of cross-functional collaboration, which, again, is why it’s a fundamental feature of the growth hacking process.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **SILOS BREACHED AT LAST**
 
@@ -54,7 +53,6 @@ One specialist on the silo problem, Professor Ranjay Gulati of Northwestern Univ
 
 Creating cross-functional growth teams is a way to break down these barriers. Cross-functional teams not only smooth and accelerate collaboration between the product, engineering, data, and marketing groups, they motivate team members to appreciate and learn more about the perspectives of the others and the work they do. So how, exactly, does one set up a growth team to meet the strategic needs and priorities of a specific project or initiative? We’ll address the key steps in the pages that follow.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE WHO**
 
@@ -102,7 +100,6 @@ What is essential is that data analysis not be farmed out to the intern who know
 
 Here again the job titles and specific functions vary according to the type of business. In software development, the specialty field of user experience designer is responsible for developing the screens and sequences that users experience with the software. For manufactured goods, this designer might be responsible for the product drawings and specifications, while at other companies, designers might be chiefly involved in graphic design of advertisements and promotions. Having design experience on a team often improves the speed of execution of experiments, because the team has a dedicated staff person to immediately produce whatever design work may be involved. User experience designers can also offer important insight into user psychology, interface design, and user research techniques that can help to generate great ideas for testing.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE SIZE AND SCOPE**
 
@@ -110,7 +107,6 @@ At start-ups and small established companies, a growth team might comprise only 
 
 If you’re just starting to form a growth team, then bringing over one or two individuals from different departments to get the team started may be a good way to get the ball rolling, and the size of the team can grow over time. In some cases, as the process is learned, additional teams can be formed. At IBM, for example, a growth team was formed to work specifically on growing the adoption of its Bluemix DevOps product, a software development package for engineers, by assigning five engineers and five other staff, from business operations and marketing, to make up the team. At Inman, Morgan comprised his growth team of a data scientist, three marketers, and their Web developer to start the growth hacking process. Morgan is also the head of product development, and he fills the spot for product management on the team. As COO he is also the highest-ranking executive on the team, but he is not the growth lead. Rather a marketing manager runs the process, and Morgan plays a contributing and guiding role.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE HOW**
 
@@ -129,7 +125,6 @@ This weekly meeting keeps the team on track and focused, and ensures the high le
 
 So, for example, an in-depth analysis of customer churn (meaning identifying those who recently abandoned the product) might reveal that the people who are defecting haven’t made use of a particular feature of the product that is popular with avid users. That discovery might lead the team to experiment with ways to get more people to try that specific feature out. Or take another example from the work of our growth team at GrowthHackers.com. In looking at our user data, we found that content submitted by the community that included rich media (such as presentation decks from conferences and videos from YouTube) sparked greater engagement and led to more repeat visits from viewers than posts that simply link to stories elsewhere on the Web. So growth team members came up with a series of ideas for adding more rich media items, such as podcasts and videos, to the site. This course of action seemed obvious and predictable enough; that is, until the engineer on the team chimed in to explain that not only could we support many, many more types of media on the site with a simple plug-in, but that we could also build in code to automatically recognize links from popular media sites like YouTube, SoundCloud, and SlideShare and instantly embed that content into the discussion pages on the website. Rather than simply adding video from one or two additional media sources, we were now able to support more than a dozen, while making the process for adding that media to GrowthHackers dramatically easier. After this discovery, one that likely would not have been made without the input of the engineer in the group, the experiment was redesigned and it proved even more powerful in growing the community than we had initially expected. We will introduce specific procedures for running meetings for the greatest efficiency in Chapter Four, including a recommended meeting agenda.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **WHO DOES WHAT**
 
@@ -139,7 +134,6 @@ Yet other initiatives will require close collaboration among all team members, s
 
 Throughout the rest of the book we’ll describe specific experiments conducted by actual growth teams, and we will introduce tools for keeping track of the results and establishing priorities for which experiments to run, as well as for designating the follow-up steps to take once experiment results are in hand.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **EXECUTIVE SPONSORSHIP REQUIRED**
 
@@ -153,7 +147,6 @@ Another founder who has been a fervent champion of the growth process is Spencer
 
 Rascoff has rallied the whole company around the growth mission by establishing a focus for growth efforts that he calls Zillow’s “Play,” a recurring nine-to-twelve-month growth initiative that the entire company aligns around. In 2008, for example, the company realized that it was losing traffic to a rival upstart, Trulia, largely due to Trulia’s smart use of search engine optimization to rank its home listing data higher than Zillow’s in Google search results. So the Zillow executive team decided that SEO would be that year’s Play, and every team in the company was mandated to make becoming world class at search a priority. This involved a major cultural shift, as the company had previously ignored SEO in favor of other tactics. But in the end every team managed to find ways to improve their SEO efforts, and as a result Zillow was able to catch and surpass Trulia, ultimately buying the competitor in 2015 for $3 billion.[7](part0017_split_002.html#c01-fnt7)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE REPORTING STRUCTURES FOR TEAMS**
 
@@ -183,7 +176,6 @@ Independent teams are most easily established early in a company’s development
 
 It’s important to emphasize that even when teams are given independent authority, they need the strong backing of top management in order to navigate the internal sensitivities and frictions that can arise between product, marketing, design, and engineering specialists who have their own notions of what’s important and the “right way” to do things.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **MELDING MINDS AND DISMISSING LORE**
 
@@ -205,7 +197,6 @@ When data analysis provides a strong rationale for trying a hack, dissent is muc
 
 Finally, few things are more effective for squashing conflict and dissent than success. Many growth team members have described how enthusiasm for the method built not only within their teams but all around their companies as they began to see the method working, and leading to impressive gains.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **TEAMS EVOLVE**
 
@@ -215,7 +206,6 @@ The composition and focus of growth teams will generally change over time as wel
 
 For early stage start-ups, for whom growth teams will almost certainly be small, bringing in outside experts who are specialists in one area of user growth (such as acquisition or retention) to add bench strength to the team can pay big dividends, as Dropbox found in hiring Sean. Such small growth teams can reap great rewards by combining their deep internal knowledge of the product and company with external expertise. One cautionary note is that it’s vital not to outsource the core responsibility for growth, at this or any stage. The fact is, growth is too important to delegate, and consultants often lack the organizational authority, time, or intrinsic motivation to get the hard work done that results in sustainable growth.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **A GROWTH HACK TO START GROWTH HACKING**
 
@@ -229,7 +219,6 @@ It’s just as important that the growth team machine not be put into drive too 
 
 This is why, as we’ll discuss more fully in the next chapter, no overly ambitious growth scaling plans should be instituted until a company has determined whether the product it’s bringing to market is a “must-have” or a “just okay but can live without.” So now that you know how to set up a growth team, let’s move on to the next step in the process: how the team can use customer feedback, rigorous experimentation and testing, and a deep dive into data to evaluate if a product has in fact achieved product/market fit.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ![](../images/00012.jpeg)
 ![](../images/00012.jpeg)
@@ -250,4 +239,3 @@ Growth teams need to adopt rigorous methods for probing into user behavior in or
 
 Finally, it’s important to note that identifying core value does not necessarily follow directly from having created it. Often those of us building and marketing new products *think* we know what aspect of our product consumers will love—and often we are wrong. Sometimes it’s a feature or user experience that was built into the product that is quite different from what was hypothesized in the original product vision as the core value; other times it’s one that was built into the product somewhere along the way as almost an afterthought. Whichever the case, it’s up to the growth team to find out. In this chapter we’ll learn how.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

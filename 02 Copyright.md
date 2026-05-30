@@ -40,10 +40,8 @@ v4.1\_r1
 
 a
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 *SE: Dedicated with love to my amazing wife Svetlana and our talented daughters Natasha and Anna.*
 
 *MB: For Erika, Banks, and Audrey Grace*
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

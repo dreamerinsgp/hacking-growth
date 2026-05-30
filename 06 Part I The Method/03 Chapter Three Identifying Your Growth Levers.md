@@ -15,7 +15,6 @@ They had hoped to get out of their cash crunch by raising more capital. But with
 
 The Everpix tragedy demonstrates the importance of focusing not just on growth but on the *right levers of growth* at the right time. The conversion rate and positive feedback were clear indicators that they already had a great product and a solid base of active users; what the Everpix founders needed to do was shift attention from making the product pleasing to making it more profitable—i.e., channel their considerable design and engineering talent toward the mission of turning more customers into paying ones. Had they done so, it may well have become a lucrative business.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **HACKING YOUR GROWTH STRATEGY**
 
@@ -38,7 +37,6 @@ Running lots and lots of tests of small changes, like button colors, isn’t the
 
 So how do you figure out how to strategically focus your efforts on the experiments likely to have the greatest impact? That is precisely what we’ll address in this chapter.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE METRICS THAT MATTER**
 
@@ -58,7 +56,6 @@ While all products will share common drivers of growth, such as new user acquisi
 
 The way to determine your essential metrics is to identify the actions that correlate most directly to users experiencing the core value of your product, such as, for Facebook, how many people users invite to join their friend circle, how frequently they visit the site, how many posts and comments they make, and how much time they spend on the site. You want to track, at a minimum, the metrics for each of the steps users must take to reach the aha moment and how often they are taking those steps. Take Uber, whose essential metric for riders is rides completed. So in addition to the number of new people downloading the app, the company would want to track in the number of rides being booked, the number of riders who return and rebook, and the frequency with which they are booking new rides.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 GOOGLE ANALYTICS DASHBOARD
 
@@ -67,7 +64,6 @@ GOOGLE ANALYTICS DASHBOARD
 
 *The metrics that appear in Google’s default dashboards aren’t necessarily the most important for your growth.*
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 The equations above may seem overly simplistic. Clearly many more factors go into making a business work, such as R&D investment, cost of materials, shipping expenses, inventory management, and more. But the stark simplicity of the growth equation is the point. The sheer volume of data that is now available about customer behavior, even using the most basic analytics program, is daunting, with screen after screen of extraordinary detail. Google Analytics, for example, provides hundreds of charts and data points, which, while robust, can create confusion if it isn’t used in service of tracking the most important metrics specifically for your growth. Reducing the complexity of your business operations down to a basic formula is immensely helpful in allowing the growth team to focus on the *right* signals in this vast sea of data noise.
 
@@ -77,7 +73,6 @@ Yet for some businesses, like Facebook, for example, daily active users is a hug
 
 By contrast, for eBay, one of the metrics that matters most is not daily users *or* new users but the number of items listed for sale. This is because the more items on the site, the more potential buyers will experience the aha moment of seeing exactly what they want to bid for; and in turn, the more sellers will experience the aha of making a sale. The more of each of those moments the site delivers to people, the more regularly users are likely to return, and the more merchandise will be sold. So while eBay clearly wants to increase the number of potential buyers who come to its site, getting sellers to list lots of items is arguably at least as, if not more, important, and thus should be where the bulk of their growth experiments are focused. And indeed, eBay determined that number of items sold is such an important metric for its growth that it designated *gross merchandise volume (GMV)* as the most important one to follow,[8](part0017_split_004.html#c03-fnt8) or what’s commonly called in the growth hacking community *the North Star metric*.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **CHOOSING A NORTH STAR**
 
@@ -89,7 +84,6 @@ The North Star should be the metric that most accurately captures the core value
 
 Let’s consider some other cases. For WhatsApp, the aha moment is the ability to send unlimited messages to friends and family no matter where they are in the world without worrying at all about the cost. WhatsApp’s North Star was therefore the number of messages sent, rather than, say, daily active users, because even if a user is active with the app every day, but is only sending one message, it’s unlikely that WhatsApp is their preferred choice for communicating with their network. Daily active users, therefore, doesn’t represent the delivery of the core value to customers. For Airbnb, the North Star was nights booked. No matter what the team did, from getting more email subscribers or registering more users, if it didn’t improve the number of nights actually booked, it wasn’t increasing the number of aha moments users experienced, which for guests was staying in a place they were happy with, and for property listers was making money from their home.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **SETTING NEW SIGHTS**
 
@@ -97,7 +91,6 @@ The North Star may change over time as the company grows and initial goals are a
 
 As companies grow, they also create more product and growth teams, which have their own North Stars, even while the company may still have its one overridingly important metric. Recall that LinkedIn now focuses on initiatives in five areas: network growth; search engine optimization/search engine marketing; onboarding; international growth; and engagement, with a team dedicated to each. For Facebook, while the initial strategy was to focus all effort on getting new users to quickly friend at least seven friends in ten days, it evolved as the company grew and priorities shifted, including building the number of advertisers using the site and the international user base through initiatives like the translation engine and Facebook Lite.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **ILLUMINATING THE BEST BETS**
 
@@ -117,7 +110,6 @@ Gebbia and Chesky could have tried to ramp up bookings by instead focusing on gr
 
 Just as it’s easy to lose your North Star and find yourself veering onto the moors in pursuit of vanity or irrelevant growth metrics, it’s equally easy to get lost in the weeds of data analysis and lose the sense of urgency to start experimenting with ways to actually drive growth. Alex Schultz notes that the team at Facebook’s early charge to improve one key metric, which Mark Zuckerberg decided was monthly active users, helped the growth team break out of “analysis paralysis.” Doing more and more data analysis can be an especially alluring trap; because delving into data is scientific, we can convince ourselves that we’re just being rigorous and don’t want to experiment without sufficient evidence of likely success. One of Schultz’s favorite quotes when he talks about the growth process is of US World War II commander General George Patton, who said, “A good plan violently executed now is better than a perfect plan tomorrow.”[12](part0017_split_004.html#c03-fnt12) The clarity of the North Star goal helps to keep data analysis tightly focused so you can get your high-impact experiment off the ground as quickly as possible.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE DATA IMPERATIVE**
 
@@ -131,7 +123,6 @@ Having this unified data store not only helps point you toward areas in which to
 
 The good news is that while for a large company, as Facebook was by that time, or Walmart when it engaged in this process, the effort to combine all data is quite a chore, it can be done more easily in smaller companies or projects thanks to the availability of a host of tools and services that make it easier to collect data and combine it from multiple sources. In fact, marketing specialist Rob Sobers has outlined a simple method using off-the shelf tools that creates a data tracking system that (at time of writing) costs just $9 a month. (While we won’t go into the details of how to do this here, you can find a link to it in the book’s endnotes.)[15](part0017_split_004.html#c03-fnt15)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **IT’S NOT ALL ABOUT THE NUMBERS**
 
@@ -139,7 +130,6 @@ That said, user data does have limits, even remarkably detailed data. After all,
 
 While the practice of talking to users in the early development stage of testing a prototype has become widespread, at far too many start-ups and established companies, it falls by the wayside once the product has been launched. Continuing to tap this vital resource as you move into the high-tempo experimentation process is extremely important, as the feedback garnered leads the way to many of the most powerful experiments you can run. Much of the quantitative analysis you do, in other words, should be complemented with this qualitative probing.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **DESIGN ACCESSIBLE REPORTING**
 
@@ -175,7 +165,6 @@ RESURRECTIONS BY REFERRER
 
 *Pinterest Growth Dashboards*[17](part0017_split_004.html#c03-fnt17)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 Clear trends are immediately discernible in each, though we can’t know precisely what they are because Egan has, for reasons of confidentiality, withheld the specifics in the versions you see here. Sharing data must be done judiciously, for sure, and you’ll want to be careful about which reports you send out beyond the confines of the growth team, and certainly which you share outside the company.
 
@@ -183,7 +172,6 @@ Creating such simple dashboards is not, pardon the phrase, rocket science. There
 
 Numbers can also be compared with a goal. For example, at Inman the team measures their subscriber growth metrics against the targets outlined in their quarterly goals to see if they are ahead of or behind pace. Dashboards should help team members grasp the health of the business growth, and answer questions quickly and clearly with the information they provide. While data visualization design is an intricate skill, a talented data analyst working with the growth lead can create a set of insightful and actionable dashboards for the team to keep track of the metrics that matter most.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **PUTTING IT ALL TOGETHER**
 
@@ -204,7 +192,6 @@ The team also used interviews to learn about the behavior of another distinctive
 
 As the example from Twitter shows, identifying your growth equation and the key metrics to improve, along with establishing the proper instrumentation, data collection, and reporting that includes customer feedback, to discover and monitor your core growth levers, is an essential and powerful first step for successful growth hacking. Now you are ready to put your growth engine in motion. It’s time to introduce the step-by-step process we’ve developed for: honing the best set of ideas to test; getting tests done as efficiently as possible; running a highly disciplined growth meeting; and continuing to learn from and building on your findings in order to kick your growth engine into high gear.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ![](../images/00022.jpeg)
 ![](../images/00022.jpeg)
@@ -223,4 +210,3 @@ To illustrate the power of small gains, Peep Laja, a renowned expert in conversi
 
 This chapter will discuss how to run the kinds of rapid-fire experiments that will produce these kinds of compounding wins.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

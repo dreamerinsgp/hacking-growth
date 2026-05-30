@@ -7,7 +7,6 @@ The ultimate goal of acquiring, activating, and retaining customers is, of cours
 
 The basic means of increasing revenue per customer vary according to a company’s business model. If you’re a retail company, greater monetization of your customer base is fundamentally achieved by persuading customers to purchase more of whatever it is you sell. If you’re a software as a service (SaaS) company, it is achieved by getting more subscribers to renew their subscriptions, and to do so for more years, as well as by persuading more of them to upgrade to higher-fee levels of service (or in the special case of freemium services, by getting more users to upgrade to paid plans). If your revenue comes from selling advertising space, then driving revenue higher comes essentially from creating more available space to sell and convincing more advertisers to purchase and to pay more for the space they purchase. Each of these models require different tactics, but in all cases growth teams should start with the same fundamental diagnostic process to generate ideas for experiments to try for boosting earnings.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **MAP YOUR MONETIZATION FUNNEL**
 
@@ -25,7 +24,6 @@ For a SaaS company the analysis might show a pinch point in the step from free t
 
 As far as the tools for doing this mapping, many of the common analytics packages that we’ve mentioned so far offer the ability to display simple purchase funnels for e-commerce companies. And advertising services such as DoubleClick provide software for ad response analysis to Web-based companies selling ad space. But the complete mapping of all of the steps in your company’s monetization funnel will often require additional work by a data analyst.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **HOW MUCH ARE YOU MAKING FROM COHORTS?**
 
@@ -45,13 +43,11 @@ The features of software customers will be the most inclined to pay for will als
 
 If a product or service is offered internationally, companies should also be sure to look at monetization by country, since different countries have different norms about the types of payment options, and also the fees charged, for services. For example, users in Germany may be more likely to purchase using a specific set of payment options, which are different from the preferred payment method in Russia, resulting in markedly different monetization rates for each country. By the same token, certain business models may be better understood in one country compared to another. Subscription businesses are well understood in the United States, for example, but may be less well received in other countries. Growth teams can experiment with offering different sets of options to different countries to increase monetization within each.[4](part0017_split_009.html#c08-fnt4)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **LEARNING WHO YOUR CUSTOMERS ARE**
 
 As we’ve seen already, there are numerous ways to segment your customer base to find new insights. And one of the first steps for growth teams trying to better monetize that base is to identify the general groupings of customers who share similar characteristics. These may be that they share the same location, same experience, spend roughly the same amount of money, have the same needs from your product, or a combination of factors (many of which we’ve identified in our potential cohort breakouts). The goal of creating these groupings is to better generate ideas for ways to satisfy customers’ specific wants and needs. Many marketers will be familiar with the exercise of creating *personas,* which are fictional dossiers of a representative customer from each group, for this very purpose. For example, at Inman, we have identified four primary types of customers: new real estate agents with less than three years’ experience; agents with five to ten years of experience; real estate brokers; and franchise and technology executives. These general groupings represent the large common clusters in our customer base, and our growth team has focused on designing experiments such as customized email communications, landing pages, and promotional offerings to drive increased revenue from each group.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **ASK CUSTOMERS WHAT BENEFITS THEY WANT**
 
@@ -68,7 +64,6 @@ SURVEYING USERS ABOUT NEW FEATURES
 
 By asking respondents to rank each option, you may well end up with a couple or a few good choices for next offerings, which the growth team can suggest be added to the product development roadmap schedule. The BitTorrent team went ahead with developing the battery saver feature largely on the basis that it got the strongest responses in this survey, and as a result drove a 47 percent increase in daily revenue. The auto-shutdown feature, which also got a strong response, was subsequently tested as well and, after finding favorable response, was introduced to all app users and increased daily revenue 20 percent.[5](part0017_split_009.html#c08-fnt5)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **USING DATA AND ALGORITHMS TO CUSTOMIZE OFFERINGS TO CUSTOMERS’ WANTS AND NEEDS**
 
@@ -87,7 +82,6 @@ The intersection size in the Jaccard index is how many people buy both peanut bu
 
 This calculation can be done for a host of combinations of every item in the store, creating powerful recommendations that lead to more purchases. And with the best recommendation engines, these product suggestions will only get better and more personalized over time because the more customers shop, the more data is available not just about what an individual customer has purchased, but also about common patterns among a large pool of shoppers. The grocery app recommendation engine might, for example, recommend seltzer water and limes when a shopper puts Red Bull in her shopping cart—even if that shopper has no history of buying any of those products—based on data that shows most people buying Red Bull are purchasing mixers for vodka.[6](part0017_split_009.html#c08-fnt6)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **DON’T BE INTRUSIVE**
 
@@ -99,7 +93,6 @@ This is another reason that the experimentation growth teams are set up to do is
 
 Our grocery app team, for example, could send a free delivery coupon to customers who’ve made only one purchase, seeking to spur an additional purchase, and then if that test was successful, the team could experiment with building in notifications in the app itself, promoting free delivery to all users who have made at least one purchase.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **OPTIMIZING YOUR PRICING**
 
@@ -163,7 +156,6 @@ But remember, once pricing is set, it should not be checked off the list and nev
 
 Ad-based growth teams should be optimizing pricing in a similarly fluid way. The largest advertising platforms, such as Google and Facebook, use an auction model to set the value of their ad inventory, which essentially means that when advertisers want to place an ad they set a bid price for what they’re willing to pay, then the site gives the ad space to the highest bidder (this is a dramatic oversimplification; the auction processes are dauntingly complex). When that bidder’s budget is exhausted, often by hitting a daily cap or other restriction, the next highest bidder is given the inventory, and so on, until all available inventory is used. These companies also use elements such as ad quality and customer response to factor into which advertisers get what space and which ads are shown more prominently, which is a strong incentive for advertisers to make higher-quality ads. That is, of course, in the interests of both the advertiser and the advertising platform. Smaller publishers who don’t have this kind of bidding system should continuously experiment with pricing of their inventory based on supply and demand to drive the best revenue growth.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **PRICING RELATIVITY**
 
@@ -180,7 +172,6 @@ Digital marketer Steve Young used this decoy product to profound effect at Smart
 
 The lesson is unmistakable: teams should experiment with a product option that is priced to help customers better understand the relative value of the items and plans you hope to sell.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **LESS IS NOT ALWAYS MORE**
 
@@ -190,7 +181,6 @@ At Qualaroo, we boosted our revenue significantly by conducting experiments that
 
 Even if you aren’t selling a Web service or a tech product, the point is that your customers might be less price sensitive than you think—and the growth hacking process provides a simple way of figuring out just how price sensitive they actually are. This doesn’t just apply to the pricing of the products and services being sold, but also to the discounts being given to customers to take action. At Inman, the team tested giving a discount to visitors who were abandoning their purchase in the middle of checking out by offering a limited-time 25 percent off their purchase to complete the checkout process. Not surprisingly, this discount drove a significant lift over offering no discount at all, increasing the rate at which people completed the purchase by 39 percent. But when they ran another test, testing the 25 percent discount against a 10 percent discount, they found that the smaller discount still converted roughly the same amount of additional customers—and by offering a smaller discount they were able to improve the revenue captured from the sign-up process by 18.9 percent.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **PROCEED WITH CAUTION**
 
@@ -200,7 +190,6 @@ Another challenge specific to products that are sold by a sales team is that it 
 
 A final challenge is that growth teams often don’t have the individual authority to test changes to pricing on their own, as it requires the coordinated effort of the product, finance, and sales teams (if the company uses a sales-based model). Therefore, it’s essential the pricing and discounting tests are done in a considered, well-coordinated fashion, ensuring that all stakeholders in all parts of the business are aware of the various pricing experiments being run and their impact on both the user experience and other critical business metrics, such as margin, recurring revenue, and average order size for each customer.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE PENNY GAP**
 
@@ -218,7 +207,6 @@ Growth teams should also experiment with *combinations* of the ways in which the
 
 In all cases, the growth team should let data lead the way, measuring what’s working and what customers are interested in paying for, and experimenting to meet those needs and maximize the revenue over time.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **BONE UP ON CONSUMER PSYCHOLOGY**
 
@@ -272,7 +260,6 @@ Using scarcity as a purchasing tactic is about triggering the *fear of missing o
 
 Having now made the full circuit through the four key types of experimentation for driving growth—acquisition, activation, retention, and monetization—in the next, and final, chapter, we’ll explore how vital it is for growth teams to continue to work on all of these fronts to avoid falling into the common trap of growth stalls: lulls in growth that can, and often do, spell disaster, even for leading brands. Remember, growth teams should never rest on their laurels. In a twist on the old adage “You snooze, you lose,” today’s hypercompetitive business environment assures that if you stall, you will fall.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ![](../images/00054.jpeg)
 ![](../images/00054.jpeg)
@@ -283,4 +270,3 @@ In 2017 the Facebook growth team will celebrate its 10-year anniversary. Going f
 
 Whether yours is a growth team of 5 people or 500, and whether you work for a company valued in the millions or one that is still getting off the ground, you, too, can follow their example of continuously and relentlessly experimenting on all fronts with new ways to push growth.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

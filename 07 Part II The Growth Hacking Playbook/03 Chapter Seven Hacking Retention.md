@@ -11,7 +11,6 @@ Homejoy, a home cleaning start-up, once had a bright future, raising more than $
 
 Amazon, in contrast, is perhaps the gold standard example of retention prowess. The company’s subscription program, Amazon Prime, has been a particular triumph in retaining customers, largely due to the two-day free shipping included on thousands of items, but also many ancillary benefits that have been added to the program, such as its video and music streaming services. Seventy-three percent of free trial subscribers convert to paying subscribers, and ninety-one percent of first-year subscribers renew for a second year. What’s even more impressive is that retention continues to increase the longer customers have been subscribers, with the renewal rate for customers heading into their third year in the program at an almost unheard-of high of 96 percent.[4](part0017_split_008.html#c07-fnt4)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE COMPOUNDING VALUE OF RETENTION**
 
@@ -21,7 +20,6 @@ Increasing the average revenue you earn per customer in turn allows you to inves
 
 Yet another benefit of higher retention is that it allows you to see stronger results from both word of mouth and your viral marketing efforts, because the longer users stay with your product, the more opportunities they’ll have to talk about it and even to show it to friends and others.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **HOMING IN ON BEST BETS FAST**
 
@@ -31,7 +29,6 @@ Growth hacking allows teams to quickly choose which out of such a set of ideas t
 
 These results would, of course, only be the beginning of nonstop crafting and testing of hacks to boost retention, the topic of this chapter.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **WHAT DRIVES RETENTION?**
 
@@ -59,7 +56,6 @@ Evernote’s retention graph looks that way essentially because the service’s 
 
 Companies with the opportunity to capitalize on the power of stored value have an advantage in increasing retention over time, but no company, even those with this built-in opportunity, can simply assume that customers will continue to be actively engaged. They must steadily work to improve their offerings for customers. Just think about how many new features and services Facebook has offered since its launch and how many different kinds of notifications and prompts they’ve devised to keep you using the service. From adding live video and slideshows, to prompting you to share news about your favorite sports teams or letting you know when you have a Facebook anniversary with a friend, the company continually works to improve how engaged and retained its customer base is. Any kind of company can, and should, work to keep increasing the value it’s delivering to customers and their level of engagement over time.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **THE THREE PHASES OF RETENTION**
 
@@ -73,7 +69,6 @@ Once new users have crossed the threshold of initial retention, they move into t
 
 Then, we’ll move on to the tactics for ***long-term retention***. This is the phase in which growth teams can help to assure that a product keeps offering customers more value. Teams must experiment with ways to keep improving the product, helping product development teams to determine the timing for introducing enhancements of existing features or entirely new features. The key here is to keep refreshing the customer’s perception of the product as must-have.[9](part0017_split_008.html#c07-fnt9)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **WHAT DOES GOOD RETENTION LOOK LIKE?**
 
@@ -85,7 +80,6 @@ The key point is that in crafting your retention metrics, it’s important to be
 
 While we’ve so far discussed retention in terms of the customers you keep, it’s also critical to track the flip side, the customers who defect, or churn, from your business each week or month. Your churn rate is essentially the inverse of your retention rate; so, for example, Costco’s 91 percent membership retention rate is also a 9 percent annual churn rate.[10](part0017_split_008.html#c07-fnt10) Some churn is unavoidable, even for the best-loved products. But clearly, for all businesses, the lower rate of churn, the better.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **IDENTIFY AND CHART YOUR COHORTS**
 
@@ -125,13 +119,11 @@ To consider how the breakdowns might be done for a different business model, say
 
 It’s important to note that tracking retention by cohorts and in the many ways suggested above requires more sophisticated analytics capabilities than basic Web analytics tools, like Google Analytics, offer. A data analyst can put together these reports relatively easily, assuming that your user database has been set up to allow for separating out users by the right set of variables. But if you don’t have a dedicated data analyst, you can use one of a number of programs, such as Mixpanel, Kissmetrics, or Amplitude. While Google Analytics has recently added some cohort analysis capability, these more robust tools allow you to do much more refined analysis such as the one above, and they are easy for anyone to use.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **HACKING INITIAL RETENTION**
 
 Once you’ve analyzed the cohort data to identify drop-off points in initial retention, and deployed surveys to probe into the causes of the defections, you can begin to experiment with solutions. The hacks for improving initial retention will be essentially the same as those introduced for improving activation, as this period is really a prolonging of the activation experience. Refining the new user experience and getting users to experience the product’s core value as quickly as possible are two of the most important strategies at this stage. The use of triggers, such as the mobile notifications and emails, can also be effective in helping to cement the usefulness and value of the product in the user’s mind. However, as we discussed in the last chapter, growth teams should not fall into the trap of relying only on triggers to keep people coming back in this initial stage; they’ve got to also keep their eye on the experience the product is offering and any refinements that could be made (for a refresher on these tactics, turn back to Chapter Six).
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **BUILDING HABITS**
 
@@ -154,7 +146,6 @@ One general rule that holds true across most product types is that improving the
 
 The video streaming service, for example, could break subscribers into cohorts by the amount of viewing time. That analysis might reveal that a group of avid users are watching several episodes of shows all in one viewing; in other words, that they are binge watching, a new viewer habit that Netflix has capitalized on well. This discovery might lead the growth team to consider how the company might create a new type of reward by allowing customers to do more binge watching, as Netflix did when it started to offer its original series for viewing all at once rather than making episodes available one at a time. The team might also analyze what types of series are the most popular for bingeing and experiment with highlighting similar series that have proven to also be great for bingeing.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **OFFER REWARDS BOTH TANGIBLE AND EXPERIENTIAL**
 
@@ -201,7 +192,6 @@ EXAMPLE OF COMPONENT VARIATIONS
 
 Teams that want to experiment with personalization can start by doing so with the triggers they’re sending customers. Most email marketing software allows for a variety of personalization options. These can be as simple as inserting the recipients’ names in a message, but can also include delivering different content and offers based on their past behavior. Our grocery app team could create different emails to send to customers who’ve made only one purchase, customers who haven’t purchased at all, and customers who average more than $100. By starting this way, growth teams can get some early data on how effective custom experiences may be and then decide to invest further if results warrant doing so.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **MORE VALUE *COMING SOON***
 
@@ -211,7 +201,6 @@ Bing Gordon, a venture capitalist at Kleiner Perkins Caufield & Byers, shared ho
 
 Of course there’s the potential to irritate customers if you seem to be baiting them by promising a fabulous new thing but making them wait too long for it. This is another reason why experimenting is so important: it can help teams calibrate the timing of these notifications. For example, the team working to boost retention for the video streaming company might learn that the company has just made a deal for the rights to an extremely popular series that hasn’t been previously available. The show won’t be available for three months, but they might decide to see whether notifications that it’s coming spur more subscription renewals in the next few months leading up to its release. Then, a simple A/B test could be run with email notifications to viewers who watched shows like it. The control group would have a typical experience, while the experiment group would receive one or a series of email messages about the new show “coming soon.” The retention of these two groups could be compared to get the quantitative impact of the test. If the “Coming Soon” message resonates and retains more of the subscribers who view that show and others like it, the growth team can move forward with making the “Coming Soon” strategy a permanent part of the customer communications.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **LONG-TERM RETENTION**
 
@@ -230,7 +219,6 @@ Growth teams can play a pivotal role in evaluating the appeal of planned new fea
 
 To see how this works, let’s return to the grocery app team and see how they could collaborate with the grocery chain’s product team to introduce an important new feature. The product group has been working on a prototype of a major new feature for the app: a meal planner. The feature uses past purchase history from users and the popularity of items offered in the app to recommend whole meals to buy, making the purchase of the necessary ingredients a breeze. All the shopper has to do is input the number of people to be served and with one click, the items are added, in the appropriate quantities, to the shopper’s cart. The growth team works with the product team and marketing group to agree on a testing strategy for offering the planner to a select number of customers as well as for experiments to improve its use among those that have access to the new feature. For example, the growth team could use the data about how effective free delivery is in driving retention to suggest that the meal planner should be programmed to recommend recipes with items that, when ordered, will result in a purchase over the free-delivery threshold. They might also experiment with triggers to notify users when new meal recommendations become available in the app. The team should also experiment with when and how to roll out the planner to customers, as well as how to communicate about any changes to the feature to those customers using the beta version.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **ONGOING ONBOARDING**
 
@@ -240,7 +228,6 @@ As users become more experienced at using your product, features they haven’t 
 
 All ongoing onboarding messaging can be tested by growth teams, such as by sending email to test groups with different versions of explanations and imagery explaining the features being promoted. If email messages prove effective in driving more use of the features, the team might then experiment with including highlights about the features in the product itself, such as by adding a promotional video about a feature to the landing pages of several other features.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **RESURRECTING “ZOMBIE” CUSTOMERS**
 
@@ -256,7 +243,6 @@ Of course, as with any targeted email notification or advertising strategy, such
 
 Attempts to resurrect such “cold” customers may seem low priority. There’s no question that if your retention is suffering, your first area of focus should be on early retention of new users. But remember that every customer who is ultimately retained represents ongoing opportunities to earn more revenue for your company, so efforts at resurrection are valuable. Now, to look closely at methods for taking the best advantage of the opportunities to earn more revenue from increasing retention, let’s move on to explore how growth hacking can help companies earn more from each customer.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ![](../images/00047.jpeg)
 ![](../images/00047.jpeg)
@@ -265,4 +251,3 @@ The ultimate goal of acquiring, activating, and retaining customers is, of cours
 
 The basic means of increasing revenue per customer vary according to a company’s business model. If you’re a retail company, greater monetization of your customer base is fundamentally achieved by persuading customers to purchase more of whatever it is you sell. If you’re a software as a service (SaaS) company, it is achieved by getting more subscribers to renew their subscriptions, and to do so for more years, as well as by persuading more of them to upgrade to higher-fee levels of service (or in the special case of freemium services, by getting more users to upgrade to paid plans). If your revenue comes from selling advertising space, then driving revenue higher comes essentially from creating more available space to sell and convincing more advertisers to purchase and to pay more for the space they purchase. Each of these models require different tactics, but in all cases growth teams should start with the same fundamental diagnostic process to generate ideas for experiments to try for boosting earnings.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

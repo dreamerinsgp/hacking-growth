@@ -9,7 +9,6 @@ In 2017 the Facebook growth team will celebrate its 10-year anniversary. Going f
 
 Whether yours is a growth team of 5 people or 500, and whether you work for a company valued in the millions or one that is still getting off the ground, you, too, can follow their example of continuously and relentlessly experimenting on all fronts with new ways to push growth.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **AVOIDING GROWTH STALLS**
 
@@ -31,7 +30,6 @@ Growth teams help to keep companies on their toes, constantly on the lookout for
 
 But, of course, growth teams are only human. They too can become complacent and distracted from the growth mission, or blindsided by market forces and disruptive technologies. But the high-tempo growth hacking process enables them to make effective course corrections at optimal speed. This chapter will introduce some of the common pitfalls that can stop growth teams in their tracks—and show how they can be mitigated or avoided.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **SWIMMING WITH SHARKS**
 
@@ -52,7 +50,6 @@ The high point was when we added 20,000 new visitors within 2 weeks, and then ul
 
 After this renewed push, we have settled into a steady and vigorous—if somewhat less intense—testing schedule most of the time, with periods of more rapid tempo when launching new initiatives, such as new software or a new marketing test. Such ebb and flow is to be expected, but the key is to stay on top of growth metrics rigorously, and to constantly ask if the team is slowing down for a valid reason, or if complacency is creeping in. If it’s the latter, the team needs to pick up the experimentation pace immediately.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **DON’T UNDERESTIMATE THE POWER OF DOUBLING DOWN**
 
@@ -64,7 +61,6 @@ At GrowthHackers, for example, the launch of our email newsletter, which highlig
 
 In short, when growth teams hit on something that works, they should invest in getting the most out of it, rather than moving on to the next battleground. Doubling down is a powerful way to stack one growth win on top of another.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **MINING DEEPER FOR DATA GOLD**
 
@@ -74,7 +70,6 @@ To determine where to dig deeper for data, growth teams should review each of th
 
 Beyond patching data gaps about product use and customer behavior, the team should also ask if it has the requisite analysis skills to make the most of the data at hand. If the growth team has been working without a dedicated data analyst or data scientist, the company should consider hiring or moving one over to work with the team full-time.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **DIVE INTO NEW CHANNELS**
 
@@ -82,7 +77,6 @@ In Chapter Five, we discussed how focusing on one or two channels for acquiring 
 
 Overlooking or disregarding organic channels of growth is another pitfall growth teams often fall into. Paid marketing is so easy to implement that it can sometimes weaken the resolve to seek more innovative solutions. In addition, organic growth channels generally take longer to generate results, which can lead teams to deprioritize them in favor of the faster paid channels. But organic channels can turn into crucial long-term growth drivers. For example, search engine optimization has been a critical component of growth for companies like TripAdvisor, Yelp, Zillow, and more. They did not start with the massive search advantages they now each have; their teams experimented intensively in order to achieve that success.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **OPEN UP THE IDEATION PROCESS**
 
@@ -90,7 +84,6 @@ Often the best remedy for a growth team that has stalled or is coming up short o
 
 Teams can seek such cross-fertilization of ideas in many ways. Ankur Patel, principal growth hacking lead at Microsoft, regularly brings together product managers, engineers, and designers from different teams at Microsoft to share new thinking and insights to spur bursts of new ideas for his team to test. At Science, a start-up incubator where Morgan worked, information about winning experiments that one start-up had tried were shared so others could also consider them.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **TAKING MOONSHOTS**
 
@@ -104,7 +97,6 @@ We believe that growth hacking is so much more than a business strategy, or even
 
 We wish you many wins along your way to unstoppable growth.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ![](../images/00056.jpeg)
 ![](../images/00056.jpeg)
@@ -131,4 +123,3 @@ Last, but certainly not least, a sincere thank you to my family. For without the
 
 —Morgan
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

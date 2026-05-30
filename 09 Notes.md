@@ -3,7 +3,6 @@
 ![](images/00057.jpeg)
 ![](images/00057.jpeg)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## INTRODUCTION
 
@@ -61,7 +60,6 @@
 
 [27.](part0004_split_009.html#itr-fnt27a) [quora.com/What-are-some-decisions-taken-by-the-Growth-team-at-Facebook-that-helped-Facebook-reach-500-million-users](http://quora.com/What-are-some-decisions-taken-by-the-Growth-team-at-Facebook-that-helped-Facebook-reach-500-million-users).
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## CHAPTER ONE
 
@@ -93,7 +91,6 @@
 
 [14.](part0006_split_010.html#c01-fnt14a) Morgan interview with Lauren Schafer, March 3, 2016.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## CHAPTER TWO
 
@@ -163,7 +160,6 @@
 
 [33.](part0007_split_013.html#c02-fnt33a) David Skok, “SaaS Metrics 2.0—A Guide to Measuring and Improving What Matters,” *For Entrepreneurs from David Skok* (blog) (n.d.), [forentrepreneurs.com/saas-metrics-2/](http://forentrepreneurs.com/saas-metrics-2/).
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## CHAPTER THREE
 
@@ -205,7 +201,6 @@
 
 [19.](part0008_split_012.html#c03-fnt19a) Josh Elman, “3 Growth Hacks,” <https://www.youtube.com/watch?v=AaMqCWOfA1o>.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## CHAPTER FOUR
 
@@ -219,7 +214,6 @@
 
 [5.](part0009_split_003.html#c04-fnt5a) Lars Lofgren, “My 7 Rules for A/B Testing That Triple Conversion Rates,” Lars Lofgren blog (n.d.), [larslofgren.com/growth/7-rules-for-ab-testing](http://larslofgren.com/growth/7-rules-for-ab-testing).
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## CHAPTER FIVE
 
@@ -263,7 +257,6 @@
 
 [20.](part0011_split_010.html#c05-fnt20a) Elman, “3 Growth Hacks.”
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## CHAPTER SIX
 
@@ -303,7 +296,6 @@
 
 [18.](part0012_split_009.html#c06-fnt18a) Kyle Rush, “Optimization at the Obama Campaign: A/B Testing,” Kyle Rush blog, December 12, 2012, [kylerush.net/blog/optimization-at-the-obama-campaign-ab-testing/](http://kylerush.net/blog/optimization-at-the-obama-campaign-ab-testing/).
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## CHAPTER SEVEN
 
@@ -361,7 +353,6 @@
 
 [27.](part0013_split_013.html#c07-fnt27a) Jordan T. McBride, “Dan Wolchonok on Running Retention Experiments,” *ProfitWell* (blog), January 21, 2016, [blog.profitwell.com/saasfest-recap-dan-wolchonok-on-running-retention-experiments](http://blog.profitwell.com/saasfest-recap-dan-wolchonok-on-running-retention-experiments).
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## CHAPTER EIGHT
 
@@ -411,7 +402,6 @@
 
 [23.](part0014_split_012.html#c08-fnt23a) Jason Bosinoff, “Hacking Word-of-Mouth: Making Referrals Work for Airbnb,” Airbnb, March 27, 2014, retrieved at: [nerds.airbnb.com/making-referrals-work-for-airbnb/](http://nerds.airbnb.com/making-referrals-work-for-airbnb/).
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## CHAPTER NINE
 
@@ -421,11 +411,9 @@
 
 [3.](part0015_split_001.html#c09-fnt3a) Jon Russell, “Viddy, Once Touted as ‘The Instagram for Video,’ Will Shut Down on December 15,” TechCrunch, November 4, 2014, retrieved at: [techcrunch.com/2014/11/04/viddy-once-touted-as-the-instagram-for-video-will-shut-down-on-december-15/](http://techcrunch.com/2014/11/04/viddy-once-touted-as-the-instagram-for-video-will-shut-down-on-december-15/).
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ![Penguin Random House Back Ad logo](images/00058.jpeg)![Penguin Random House Next Reads logo](images/00058.jpeg)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 # *What’s next on your reading list?*
 
@@ -438,4 +426,3 @@ Get personalized book picks and up-to-date news about this author.
 
 [Sign up now.](http://links.penguinrandomhouse.com/type/prhebooklanding/isbn/9780451497222/display/2)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

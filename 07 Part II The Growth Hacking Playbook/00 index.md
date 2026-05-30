@@ -3,7 +3,6 @@
 ![](../images/00027.jpeg)
 ![](../images/00027.jpeg)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ![](../images/00028.jpeg)
 ![](../images/00028.jpeg)
@@ -22,4 +21,3 @@ The first phase of work in scaling up your acquisition of customers should be de
 
 In this chapter we’ll show you how to use the growth hacking process to find those fits by using rapid-fire testing to identify the more effective and cost-efficient methods to both reach and engage your target market. First we’ll look at how to hone your marketing language to best communicate what is not just valuable, but special, about what you have to offer. Then we’ll talk about how to identify a core channel or two to focus on, and ways to leverage that channel for optimal growth. Next we’ll explore how to come up with clever hacks for acquiring customers through viral mechanisms, like referral programs, built into the product itself.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

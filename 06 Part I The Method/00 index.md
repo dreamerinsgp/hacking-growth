@@ -3,7 +3,6 @@
 ![](../images/00006.jpeg)
 ![](../images/00006.jpeg)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ![](../images/00007.jpeg)
 ![](../images/00007.jpeg)
@@ -37,4 +36,3 @@ This kind of collaboration between marketing and product teams is woefully uncom
 
 Even if you don’t work for a tech company, you may be familiar with this kind of tension between departments, maybe with marketing teams pushing back on suggestions from sales, or the R&D team resisting a request to build a prototype for a new product that marketing has recommended. This is one of the chief problems with the practice of siloing responsibilities by departments, and it’s primarily why, as you’ll learn more about in a minute, growth teams must necessarily include members across a range of specialties and departments. As the BitTorrent team soon realized, often the best ideas come from this type of cross-functional collaboration, which, again, is why it’s a fundamental feature of the growth hacking process.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

@@ -3,7 +3,6 @@
 ![title page](images/00001.jpeg)
 ![title page](images/00001.jpeg)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 Copyright © 2017 by Sean Ellis and Philip Morgan Brown
 
@@ -45,4 +44,3 @@ v4.1\_r1
 
 a
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

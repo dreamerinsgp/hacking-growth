@@ -17,7 +17,6 @@ The first phase of work in scaling up your acquisition of customers should be de
 
 In this chapter we’ll show you how to use the growth hacking process to find those fits by using rapid-fire testing to identify the more effective and cost-efficient methods to both reach and engage your target market. First we’ll look at how to hone your marketing language to best communicate what is not just valuable, but special, about what you have to offer. Then we’ll talk about how to identify a core channel or two to focus on, and ways to leverage that channel for optimal growth. Next we’ll explore how to come up with clever hacks for acquiring customers through viral mechanisms, like referral programs, built into the product itself.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **CRAFTING A COMPELLING MESSAGE**
 
@@ -37,7 +36,6 @@ They pick two promising headlines for the same story and give each its own Bitly
 
 Whether your product is a news article or a mobile app or a retail site, you can use this same method to optimize your messaging. And if you think you need a team of seasoned marketing minds who can generate dozens of potentially viral taglines out of thin air, think again; as your growth team works to craft copy for experiments, there are several sources you can tap to find words and phrases that have a good chance of resonating strongly. One is to adopt the language that your customers are using to describe your product and its benefits in social media posts and in online reviews. Another is to draw on comments from the customer surveys you hopefully conducted when determining if your product is a must-have. You can even pick up the phone and call customers directly; simply asking them how they describe your product and its value to their friends or colleagues will inevitably elicit some potentially powerful language or phrasings. Talking to customer support team members can also be very enlightening, as can reading the transcripts of customer support calls and scouring forums and online product reviews to get a sense of the kind of language your target customer is using.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **START SMALL**
 
@@ -47,7 +45,6 @@ Buoyed by this success, the team pulled off a similar feat shortly thereafter wi
 
 So as you plan your first hacks to test, start with language, and then go from there.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **LANGUAGE FIT HELPS HONE YOUR PRODUCT, NOT JUST YOUR BRANDING**
 
@@ -55,7 +52,6 @@ Sometimes the changes in wording you arrive at will lead you to additional chang
 
 Sophia Amoruso, the founder of Nasty Gal, a women’s fashion brand that soared to popularity among millennials in its early years, recounts how learning what language resonated with her target customer was crucial not just for bringing in new business, but for the development of her brand’s whole identity. When she started her business by selling secondhand clothes on eBay, she would spend hours scouring the Web for the most enticing descriptions of similar items. To get ideas, she researched popular search terms to learn about current trends, which she then used for inspiration in defining her brand. As *New York* magazine reporter Molly Young recounted in a story about Amoruso’s success, “[*B*]*atwing, lamé,* and *lumberjack* were big in 2007; *studded* and *architectural* and *origami* in 2008”; with this knowledge she scoured rag houses, with their stockpiles of secondhand clothes, to resell on eBay. She crafted a unique, always on-trend brand that resonated with millennial fashionistas.[11](part0017_split_006.html#c05-fnt11) Amoruso recalls in her book *#GIRLBOSS* that “[e]ach week I grew faster, smarter, and more aware of what women wanted.” The words shoppers responded to best helped her realize that her brand should be about empowerment, about helping women enhance their personal image and sense of self-worth. That was what made the brand so distinctive and fueled extraordinary growth. Unfortunately, the company couldn’t sustain the growth that Amoruso found early on and, after a series of poor business decisions, filed for bankruptcy in late 2016.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **FINDING CHANNEL FIT IS NOT LIKE PORTFOLIO MANAGEMENT**
 
@@ -63,7 +59,6 @@ In stock market investing, experts agree that it’s best to spread your money a
 
 At the same time, too many companies get caught in the trap of following the herd, using the same channels as everyone else, such as Google paid ads or Facebook advertising, and not experimenting with options that might be more effective for their specific product, *and* less expensive. It’s understandable; finding the right channels to focus on can be a truly daunting task not only because it is hard to know without extensive testing which channels will be the best ones for your particular business, but because there are so many different channels to choose from now, and new ones emerging all the time. Experimenting through the growth hacking process allows you to discover your optimal channel or two relatively quickly, ideally before your competition does.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **NARROWING THE FIELD**
 
@@ -85,7 +80,6 @@ THE LEADING TYPES OF CONTENT MARKETING
 
 Listing all of the specific options for each of the channels and discussing the ins and outs of each is beyond the scope of possibility here—that would require many books. But a wealth of detailed information about best practices for all of these options is available online, from the experts mentioned above and many others, and our point is that exploring them should be your first step in the prioritization process. Then you should focus on choosing a few to efficiently experiment with, using the following method.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **MAKING A FIRST CUT**
 
@@ -101,7 +95,6 @@ Aatif Awan, the Vice President of Growth & International Products at LinkedIn, w
 
 Once your growth team has selected a few channels to experiment with using the steps we outlined above, it’s time to propose a set of specific tactics for each channel to experiment with, and prioritize them for testing.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **EXPERIMENTING TO GET CHANNEL/PRODUCT FIT**
 
@@ -176,7 +169,6 @@ But what about the others? In discussing the scores in the weekly growth meeting
 
 The radio campaign, too, gets relegated to the pipeline; its score is low because despite the advantage of the relatively good demographic targeting that radio advertising allows, and the fact that radio advertising the chain has done was initially quite effective, the team wouldn’t be able to do detailed analysis of the results the way they’ll be able to with the Facebook ads and retargeting ads. Radio is also relatively expensive and takes a good deal of time and up-front work to launch a new campaign. The team is also worried about the negative effect the full-page ad-overlay idea may have for their search engine rankings and the irritation it may provoke. It has a fairly high score, though, so it, too, will go high in their idea pipeline.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **OPTIMIZING YOUR EXPERIMENTS**
 
@@ -186,7 +178,6 @@ As for the organic efforts, the promotion to loyalty card members turns out to b
 
 The process has helped them quickly identify two very promising promotion efforts to drill down on and has set a course for continuing to experiment. They are well on the way to identifying successful approaches to acquiring new customers.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **KEEP TRYING NEW THINGS**
 
@@ -200,7 +191,6 @@ As we’ve said, growth teams should periodically shift their focus to the next 
 
 So before we move to the next step and talk about how to activate this new customer base you are building, we want to share the truth versus the hype and show you what the various kinds of viral loops look like, and how to experiment with making them best work for you.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ## **DESIGNING CUSTOMER LOOPS**
 
@@ -272,7 +262,6 @@ The point is: many of the best hacks are unanticipated discoveries. The methods 
 
 Okay, having explored how to bring in loads of new users, let’s now take a close look at how to make sure they become active once you’ve hooked them.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ![](../images/00035.jpeg)
 ![](../images/00035.jpeg)
@@ -283,4 +272,3 @@ Improving activation is at its core about increasing the rate at which you get n
 
 In this chapter, we will first introduce the three essential steps every growth team must take in order to identify the highest-impact activation experiments to run. Then we will introduce a set of best practices for increasing activation that have been implemented to great effect by fast-growth companies. A closing section takes a special look at one of the most effective, but also most often abused, tactics: the use of triggers, which are prompts to users that urge them to reengage with a product. We’ll introduce the ins and outs of the sticky business of getting triggers right.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

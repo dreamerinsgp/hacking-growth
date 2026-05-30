@@ -4,7 +4,6 @@
 
 *MB: For Erika, Banks, and Audrey Grace*
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 ![](images/00002.jpeg)
 ![](images/00002.jpeg)
@@ -45,4 +44,3 @@
 
 [*NOTES*](part0017_split_000.html#G6PI0-2d0f2a5beab44ac68d55436e8da779f1)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
